@@ -1,0 +1,11 @@
+.navbar {
+    background-color: rgb(147, 25, 25);
+}
+
+body {
+    background-color: orangered;
+}
+
+label {
+    display: block;
+}
